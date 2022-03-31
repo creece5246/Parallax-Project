@@ -1,0 +1,170 @@
+@charset "UTF-8";
+* {
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+
+div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	width: 100%;
+	height: 180vh;
+	background-attachment:fixed;
+}
+
+h2 {
+	font-size: 60px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	background: red;
+	padding: 8px 24px;
+	border-radius: 16px;
+	color: black;
+}
+h1 {
+	font-size: 70px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background: rgba(5,0,27,1.00);
+	padding: 8px 24px;
+	border-radius: 16px;
+	color: rgba(171,0,12,1.00);
+		
+}
+.divone {
+	background-image: url("para_images/topper.png");
+	background-size: cover;
+}
+.divonetext {
+    height: 150px;
+    background-color: rgba(5,0,27,1.00);
+    color: rgba(171,0,12,1.00);
+}
+.divtwo {
+	background-image: url("para_images/frame_2.png");
+	background-size: cover;
+}
+
+.divthree {
+	height: 250vh;
+	background-image: url("para_images/up_down.jpg");
+	background-size: cover;
+}
+.carmoving {
+    position: sticky;
+    height: 50px;
+    width: 150px;
+    top: 500px;
+    background-size: cover;
+    bottom: 20px;
+    padding-left: 127px;
+}
+.divfour {
+	background-image: url("para_images/sideshot.jpg");
+	background-size: cover; 
+}
+.divfive {
+	background-image: url("para_images/takumai_pedal.jpg");
+	background-size: cover;
+}
+
+.divsix {
+	background-image: url("para_images/shifter.jpg");
+	background-size: cover;
+}
+.divseven {
+	background-image: url("para_images/drift_shot_1.jpg");
+	background-size: cover;
+}
+.diveight {
+	background-image: url("para_images/rearview.jpg");
+	background-size: cover;
+}
+.diveighttext {
+	height: 150px;
+    background-color: rgba(5,0,27,1.00);
+    color: rgba(171,0,12,1.00);
+}
+.divnine {
+	background-image: url("para_images/side_view.jpg");
+	background-size:cover;
+}
+.divten {
+	background-image: url("para_images/nopass.jpg");
+	background-size:cover;
+}
+.diveleventext {
+	height: 150px;
+    background-color: rgba(5,0,27,1.00);
+    color: rgba(171,0,12,1.00);
+}
+.diveleven {
+	background-image: url("para_images/sidey.jpg");
+	background-size:cover;
+}
+.divtwelve {
+	background-image: url("para_images/bottom_side.jpg");
+	background-size:cover;
+}
+.divtwelvetext {
+	height: 150px;
+    background-color: rgba(5,0,27,1.00);
+    color: rgba(171,0,12,1.00);
+}
+.divthirteen {
+	background-image: url("para_images/takumai_pedal.jpg");
+	background-size:cover;
+}
+.divfourteen {
+	background-image: url("para_images/takumai_pedal.jpg");
+	background-size:cover;
+}
+.divfifteen {
+	background-image: url("para_images/shifter.jpg");
+	background-size: cover;
+}
+.divsixteen {
+	background-image: url("para_images/overtake_fail.jpg");
+	background-size:cover;
+}
+
+.divsixteentext {
+	background-image: url("para_images/sidey_2.jpg");
+	background-size:cover;
+}
+.flasher {
+	color: rgba(254,254,254,1.00);	
+}
+.divseventeentext {
+	height: 300px;
+	background-color: rgba(47,46,62,1.00);
+}
+.divseventeen {
+	background-image: url("para_images/topper.png");
+	background-size:cover;
+}
+
+.divseventeenchild {
+    height: 150px;
+    background-color: rgba(5,0,27,1.00);
+    color:rgba(171,0,12,1.00);
+}
+
+.diveighteen {
+	background-image: url("para_images/cooper.jpg");
+	background-size: cover;
+}
+
+.eighteenchild {
+	height:150px;
+	background-color:rgba(251,176,60,1.00);
+	color:rgba(82,71,64,1.00);
+}
+
+.divnineteen {
+	background-image: url("para_images/outro.jpg");
+	background-size: cover;
+}
+/*cut to a "later at the gas station", then the car he was racing pulls up and congratulates him*/.flasher {
+}
